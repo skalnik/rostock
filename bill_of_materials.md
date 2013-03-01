@@ -1,4 +1,4 @@
-# Build of Materials
+# Bill of Materials
 
 ## Structure
 
